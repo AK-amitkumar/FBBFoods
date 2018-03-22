@@ -1,7 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df7ed248-e298-4862-9444-83de085ced29" name="Default" comment="" />
+    <list default="true" id="df7ed248-e298-4862-9444-83de085ced29" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/static/description/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/static/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/static/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/models/dy_address.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/models/dy_company.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/models/dy_department.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/models/dy_restaurant.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/models/dy_score.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/models/dy_store_type.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/models/res_company.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/models/res_users.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/security/ir.model.access.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/sequences.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/statics/init_dy_province_data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/views/address_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/views/company_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/views/department_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/views/menus.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/views/restaurant_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/views/score_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_base/views/store_type_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/data/lunch_data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/data/lunch_demo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/menus.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/models/dy_lunch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/models/dy_subsidy_account.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/models/dy_subsidy_model.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/models/dy_subsidy_order.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/models/dy_subsidy_type.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/report/lunch_order_templates.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/report/lunch_order_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/security/ir.model.access.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/security/lunch_security.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/security/zh_CN.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/sequences.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/static/src/js/lunch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/static/src/less/lunch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/static/src/xml/lunch.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/static/tests/lunch_tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/tests/test_lunch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/alert_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/cashmove_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/category_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/lunch_templates.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/lunch_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/product_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/subsidy_account_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/subsidy_model_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/subsidy_order_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/views/subsidy_type_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/wizard/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/wizard/lucky_order.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_food/wizard/lucky_order_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/models/culture.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/models/mail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/models/res_company.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/models/res_lang.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/static/src/js/announcement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/static/src/js/dy_misc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/static/src/xml/base.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/views/base_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/views/culture_data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/views/lang_data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/views/mail_data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/views/main_company.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/views/menus.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/views/templates.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/views/view_culture.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/views/view_culture_category.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_menus/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_menus/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_menus/food_menus.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_menus/system_menus.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/menus.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/models/dy_feedback.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/models/res_users.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/security/ir.model.access.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/sequences.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/views/feedback_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/views/res_users_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_system/views/simple_users_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/odoo-11.0/odoo-bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/dayitang.conf" afterPath="$PROJECT_DIR$/config/dayitang.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/odoo.conf" afterPath="$PROJECT_DIR$/config/odoo.conf" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,74 +113,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/FBBFoods$start.coverage" NAME="start Coverage Results" MODIFIED="1521032617698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FBBFoods$start.coverage" NAME="start Coverage Results" MODIFIED="1521730170211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools/ydt/utils.py">
+      <file leaf-file-name="dy_feedback.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/dy_system/models/dy_feedback.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="odoo.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/odoo.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pdf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/tools/pdf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="361">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding>
-                <element signature="e#99#108#0" expanded="true" />
+                <element signature="e#276#312#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base_update_translations.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/addons/base/module/wizard/base_update_translations.py">
+      <file leaf-file-name="dy_score.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/dy_base/models/dy_score.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-78">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="odoo" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo-11.0/setup/odoo">
+      <file leaf-file-name="score_view.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/dy_base/views/score_view.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="161">
+              <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo-11.0/setup.py">
+      <file leaf-file-name="menus.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/dy_system/menus.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -86,7 +159,96 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="__manifest__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/dy_system/__manifest__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="food_menus.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/dy_menus/food_menus.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>action_ws_sys_res_users</find>
+      <find>is_portal</find>
+      <find>Portal</find>
+      <find>groups_id</find>
+      <find>toggle_active</find>
+      <find>active</find>
+      <find>view_ws_sys_users_search</find>
+      <find>dy.restaurant</find>
+      <find>dy.store.type</find>
+      <find>dy_subsidy_order_view_tree</find>
+      <find>company_id</find>
+      <find>dy.subsidy.order</find>
+      <find>group_multi_company</find>
+      <find>ws_base.department</find>
+      <find>action_dy_base_res_users</find>
+      <find>dy.subsidy.type</find>
+      <find>order</find>
+      <find>department_id</find>
+      <find>food_dy_subsidy_account_action</find>
+      <find>options</find>
+      <find>opt</find>
+      <find>readonly</find>
+      <find>base.cn</find>
+      <find>res.country.state</find>
+      <find>state</find>
+      <find>21</find>
+      <find>code</find>
+      <find>subsidy.order</find>
+      <find>dy_feedback_view_tree</find>
+      <find>store.type</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>food.product</replace>
+      <replace>group_food_manager</replace>
+      <replace>food</replace>
+      <replace>dy.food.order</replace>
+      <replace>module_food_category</replace>
+      <replace>dy.restaurant</replace>
+      <replace>menu_dy_system_restaurant_mgr_list</replace>
+      <replace>dy</replace>
+      <replace>menu_dy_system_base_setting</replace>
+      <replace>dy.store.type</replace>
+      <replace>dy.subsidy.order</replace>
+      <replace>dy.subsidy.type</replace>
+      <replace>dy.department</replace>
+      <replace>dy.subsidy.model</replace>
+      <replace>account</replace>
+      <replace>dy.province</replace>
+      <replace>province</replace>
+      <replace>31</replace>
+      <replace>simple_name</replace>
+      <replace>feedback</replace>
+      <replace>score</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/dy_food</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,7 +256,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/app/dy_base/views/store_type_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_menus/menus.xml" />
+        <option value="$PROJECT_DIR$/app/dy_food/models/dy_lunch.py" />
+        <option value="$PROJECT_DIR$/app/dy_food/models/dy_subsidy.py" />
+        <option value="$PROJECT_DIR$/app/dy_food/views/subsidy_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_menus/food_meuns.xml" />
+        <option value="$PROJECT_DIR$/app/dy_menus/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/dy_base/models/res_company.py" />
+        <option value="$PROJECT_DIR$/config/dayitang.conf" />
         <option value="$PROJECT_DIR$/config/odoo.conf" />
+        <option value="$PROJECT_DIR$/app/dy_base/sequences.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/models/res_users.py" />
+        <option value="$PROJECT_DIR$/app/dy_system/__init__.py" />
+        <option value="$PROJECT_DIR$/app/dy_base/models/dy_department.py" />
+        <option value="$PROJECT_DIR$/app/dy_system/views/res_users_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_system/views/simple_users_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_menus/system_menus.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/views/department_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_food/models/dy_employees_account.py" />
+        <option value="$PROJECT_DIR$/app/dy_food/models/__init__.py" />
+        <option value="$PROJECT_DIR$/app/dy_food/models/dy_subsidy_account.py" />
+        <option value="$PROJECT_DIR$/app/dy_food/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/dy_food/models/dy_subsidy_order.py" />
+        <option value="$PROJECT_DIR$/app/dy_food/views/subsidy_order_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_food/views/subsidy_account_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_food/views/subsidy_type_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_food/views/subsidy_model_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_food/models/dy_subsidy_model.py" />
+        <option value="$PROJECT_DIR$/app/dy_food/models/dy_subsidy_type.py" />
+        <option value="$PROJECT_DIR$/app/dy_food/sequences.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/models/dy_address.py" />
+        <option value="$PROJECT_DIR$/odoo-11.0/odoo/addons/l10n_cn/data/res_country_state_data.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/ststics/init_dy_province_data.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/views/address_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/models/dy_company.py" />
+        <option value="$PROJECT_DIR$/app/dy_base/models/dy_restaurant.py" />
+        <option value="$PROJECT_DIR$/app/dy_base/views/company_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/views/restaurant_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/models/dy_score.py" />
+        <option value="$PROJECT_DIR$/app/dy_base/models/__init__.py" />
+        <option value="$PROJECT_DIR$/app/dy_system/models/__init__.py" />
+        <option value="$PROJECT_DIR$/app/dy_system/sequences.xml" />
+        <option value="$PROJECT_DIR$/app/dy_system/views/feedback_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/views/score_view.xml" />
+        <option value="$PROJECT_DIR$/app/dy_base/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/dy_system/security/ir.model.access.csv" />
+        <option value="$PROJECT_DIR$/app/dy_food/security/ir.model.access.csv" />
+        <option value="$PROJECT_DIR$/app/dy_base/security/ir.model.access.csv" />
+        <option value="$PROJECT_DIR$/app/dy_system/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/dy_menus/food_menus.xml" />
+        <option value="$PROJECT_DIR$/app/dy_system/models/dy_feedback.py" />
       </list>
     </option>
   </component>
@@ -140,6 +352,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -167,37 +382,129 @@
             <path>
               <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
               <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
               <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
               <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="addons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="addons" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="addons" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_base" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_base" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_base" type="462c0819:PsiDirectoryNode" />
+              <item name="statics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_base" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_food" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_food" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_food" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_menus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_system" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_system" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="dy_system" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="addons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="addons" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo-11.0" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="addons" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,6 +517,15 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/dy_system/security" />
+      <recent name="$PROJECT_DIR$/app/dy_base/views" />
+      <recent name="$PROJECT_DIR$/app/dy_system" />
+      <recent name="$PROJECT_DIR$/app/dy_system/views" />
+      <recent name="$PROJECT_DIR$/app/dy_food/views" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,8 +553,8 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FBBFoods" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odoo-11.0/setup/odoo" />
-      <option name="PARAMETERS" value="-c config/odoo.conf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odoo-11.0/odoo-bin" />
+      <option name="PARAMETERS" value="-c config/odoo.conf -u dy_base" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
@@ -261,24 +577,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -290,11 +607,83 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///Library/Python/2.7/site-packages/docutils/utils/__init__.py</url>
+          <line>191</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/dy_base/models/dy_company.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/dy_base/models/dy_company.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/dy_base/models/dy_company.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/odoo-11.0/setup.py">
+    <entry file="file://$PROJECT_DIR$/app/dy_base/views/department_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="53" column="32" lean-forward="true" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/models/res_company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/models/dy_store_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/addons/base/res/res_partner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14878">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519191770000" expanded="true" signature="32070:32536" ph="SELECT id FR... res_partner" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/views/cashmove_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1781">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/views/menus.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -302,63 +691,386 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo-11.0/setup/odoo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/addons/account/models/account.py">
+    <entry file="file://$PROJECT_DIR$/app/dy_base/models/dy_department.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="27" column="94" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="94" />
           <folding>
-            <element signature="e#25#36#0" expanded="true" />
+            <element signature="e#280#294#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/__init__.py">
+    <entry file="file://$PROJECT_DIR$/app/dy_base/models/res_users.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        <state relative-caret-position="169">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/ydt/utils.py">
+    <entry file="file://$PROJECT_DIR$/app/dy_food/__manifest__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="314">
+          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/odoo.conf">
+    <entry file="file://$PROJECT_DIR$/app/dy_food/models/dy_lunch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="166" column="32" lean-forward="true" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#47#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/service/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4598">
+          <caret line="242" column="23" lean-forward="true" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
+          <folding>
+            <element signature="e#161#176#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/views/lunch_views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="238" column="69" lean-forward="false" selection-start-line="238" selection-start-column="66" selection-end-line="238" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/views/subsidy_account_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="45" column="114" lean-forward="false" selection-start-line="45" selection-start-column="114" selection-end-line="45" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/views/subsidy_order_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="35" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/views/subsidy_type_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/models/dy_subsidy_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="24" column="108" lean-forward="false" selection-start-line="24" selection-start-column="108" selection-end-line="24" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/models/dy_subsidy_account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="e#285#321#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/sequences.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/views/address_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/statics/init_dy_province_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/addons/l10n_cn/data/res_country_state_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="169" column="0" lean-forward="true" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <caret line="671" column="0" lean-forward="false" selection-start-line="671" selection-start-column="0" selection-end-line="671" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/tools/pdf.py">
+    <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/addons/base/ir/ir_sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
           <folding>
-            <element signature="e#99#108#0" expanded="true" />
+            <marker date="1515044488000" expanded="true" signature="1110:1170" ph="SELECT relna... pg_class" />
+            <marker date="1515044488000" expanded="true" signature="1805:1861" ph="SELECT numbe... missing_value" />
+            <marker date="1515044488000" expanded="true" signature="1911:1961" ph="UPDATE missi... " />
+            <marker date="1515044488000" expanded="true" signature="2279:2527" ph="SELECT last_... ir_sequence_" />
+            <marker date="1515044488000" expanded="true" signature="2321:2450" ph="SELECT incre... pg_sequences" />
+            <marker date="1515044488000" expanded="true" signature="2597:2667" ph="SELECT last_... ir_sequence_" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo-11.0/odoo/addons/base/module/wizard/base_update_translations.py">
+    <entry file="file://$PROJECT_DIR$/app/dy_base/models/dy_address.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="271">
+          <caret line="30" column="15" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/views/restaurant_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="162" column="20" lean-forward="true" selection-start-line="162" selection-start-column="20" selection-end-line="162" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/views/company_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="124" column="41" lean-forward="true" selection-start-line="124" selection-start-column="41" selection-end-line="124" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#277#297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#277#300#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/views/res_users_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/views/simple_users_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="72" column="27" lean-forward="false" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding>
+            <element signature="e#275#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/models/dy_restaurant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/views/subsidy_model_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/models/dy_subsidy_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="108" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/models/dy_company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1147">
+          <caret line="95" column="25" lean-forward="false" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/sequences.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/models/dy_subsidy_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/views/feedback_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="55" column="43" lean-forward="false" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/security/ir.model.access.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/security/ir.model.access.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/menus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/models/dy_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/views/score_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_food/menus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1167">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_base/security/ir.model.access.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_menus/system_menus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-309">
+          <caret line="37" column="37" lean-forward="false" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_menus/food_menus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/models/dy_feedback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#276#312#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
