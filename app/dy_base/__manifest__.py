@@ -10,7 +10,9 @@
     'summary': '基础数据管理',
     'description': """ 基础数据管理初始化 """,
     'data': [
+        'security/security.xml',
         'security/ir.model.access.csv',
+        'security/ir_rules.xml',
         'sequences.xml',
         'views/store_type_view.xml',
         'views/restaurant_view.xml',

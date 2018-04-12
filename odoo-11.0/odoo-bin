@@ -10,7 +10,7 @@ LIB_PATH = os.path.join(os.path.dirname(__file__), '.', 'odoo-11.0')
 sys.path.append(LIB_PATH)
 
 __import__('os').environ['TZ'] = 'UTC'
-__import__('pkg_resources').declare_namespace('odoo.addons')
+# __import__('pkg_resources').declare_namespace('odoo.addons')
 
 from tools import oegun
 

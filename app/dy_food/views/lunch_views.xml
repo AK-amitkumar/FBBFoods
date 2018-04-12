@@ -108,7 +108,7 @@
                     <field name='note'/>
                     <field name='state'/>
                     <field name='user_id'/>
-                    <field name='price' sum="Total" string="Price"/>
+                    <field name='price' sum="Total" string="价格"/>
                     <button name="order" string="Order" type="object" icon="fa-phone text-success" attrs="{'invisible': ['|',('state','=','confirmed'),('state','=','ordered')]}" groups="lunch.group_lunch_manager"/>
                     <button name="confirm" string="Receive" type="object" icon="fa-check text-success" attrs="{'invisible': [('state','!=','ordered')]}" groups="lunch.group_lunch_manager"/>
                     <button name="cancel" string="Cancel" type="object" icon="fa-times-circle text-danger" attrs="{'invisible': [('state','=','cancelled')]}" groups="lunch.group_lunch_manager"/>

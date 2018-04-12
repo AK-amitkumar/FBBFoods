@@ -64,8 +64,8 @@
                         <notebook colspan="4">
                             <page name="access_rights" string="访问与权限">
                                 <group string="多公司" attrs="{'invisible': [('companies_count', '&lt;=', 1)]}">
-                                    <field string="组织范围" invisible="1" name="company_ids" widget="many2many_tags" options='{"no_create": 1, "no_create_edit": 1}'/>
-                                    <field string="Companies count" name="companies_count" invisible="1"/>
+                                    <field string="组织范围" name="company_ids" widget="many2many_tags" options='{"no_create": 1, "no_create_edit": 1}'/>
+                                    <field string="组织数量" name="companies_count" invisible="1"/>
                                 </group>
                                 <group>
                                     <field name="department_id" options='{"no_create": 1, "no_create_edit": 1}'/>
