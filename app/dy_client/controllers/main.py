@@ -39,7 +39,23 @@ logger = logging.getLogger(__name__)
 class MainController(http.Controller):
     """
     前端数据接口访问
+    页面跳转
+    数据传递
+    数据接口
+
     """
+
+    @http.route('/fbb/home', type='http', auth='public')
+    def home(self, **post):
+        """
+        注册
+        :param post:
+        :return:
+        """
+        data = {}
+        template_list = env.get_template("home/home.html")
+        html = template_list.render(data=data)
+        return html
 
     @http.route('/fbb/login', type='http', auth='public')
     def login(self, **post):
@@ -65,18 +81,6 @@ class MainController(http.Controller):
         html = template_list.render(data=data)
         return html
 
-    @http.route('/fbb/home', type='http', auth='public')
-    def home(self, **post):
-        """
-        注册
-        :param post:
-        :return:
-        """
-        data = {}
-        template_list = env.get_template("home/home.html")
-        html = template_list.render(data=data)
-        return html
-
     @http.route('/fbb/sort', type='http', auth='public')
     def sort(self, **post):
         """
@@ -94,10 +98,10 @@ class MainController(http.Controller):
         :param post:
         :return:
         """
-        template_list = env.get_template('person/sort.html')
+        template_list = env.get_template('person/index.html')
         return template_list.render(data={})
 
-    @http.route('/fbb/sort', type='http', auth='public')
+    @http.route('/fbb/shopcart', type='http', auth='public')
     def shop_cart(self, **post):
         """
         购物车
