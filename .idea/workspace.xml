@@ -2,29 +2,255 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df7ed248-e298-4862-9444-83de085ced29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/fbb_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/logo1_120_76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/logo1_160_101.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/logo_120_90.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/logo_200_125.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/logo_597_379.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/logos.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/min_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/mind_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/static/img/bitbug_favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/static/img/fbb_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/static/img/min_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_init/static/img/mind_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/dy_client/static/src/js/fbb_api.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dy_client/static/src/images/logo.png" afterPath="$PROJECT_DIR$/app/dy_client/static/src/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dy_init/static/img/favicon.ico" afterPath="$PROJECT_DIR$/app/dy_init/static/img/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dy_init/static/img/logo.png" afterPath="$PROJECT_DIR$/app/dy_init/static/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/Banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/bi_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/classic_template.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/compnay_config.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/cust_in_modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/cust_inv_fency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/cust_invoice_classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/cust_invoice_odoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/delivery_classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/delivery_fency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/delivery_modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/delivery_odoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/delivery_odoo_standard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/delivery_slip_modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/delivery_slip_odoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/fency_template.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/i_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/i_m_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/i_od.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/invoice_classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/invoice_fency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/invoice_modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/invoice_odoo_standard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/modern_template.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/odoo_standard_template.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/po_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/po_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/po_f_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/po_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/po_m_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/po_od.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/po_od_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/pur_order_classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/pur_order_fency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/pur_order_modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/pur_order_odoo_standard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/purchase_classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/purchase_fancy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/purchase_modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/purchase_odoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/quotation_classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/quotation_fency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/quotation_modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/quotation_odoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/quotation_odoo_standard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/rfq_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/rfq_classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/rfq_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/rfq_fency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/rfq_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/rfq_modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/rfq_od.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/rfq_odoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/rfq_odoo_standard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_classic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_classic_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_fancy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_fency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_fency_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_modern_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_moderns.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_odoo_standard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/sale_odoo_standard_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/so_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/so_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/so_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/so_od.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/description/CubicERP_2018.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/description/accounting_sc_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/description/accounting_sc_02a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/description/accounting_sc_02b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/description/accounting_sc_02c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/description/accounting_sc_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/description/dashboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/description/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/static/description/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/static/src/img/alipay_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/static/src/img/guanzhu_qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/static/src/img/little_qrcode.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/description/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/description/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/description/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/description/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/description/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/description/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/description/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/description/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/description/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/delivery_report/fency_report_deliveryslip.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/delivery_report/modern_report_deliveryslip.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/delivery_report/odoo_standard_report_deliveryslip.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/delivery_report/report_deliveryslip_classic.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/delivery_report/stock_report_classic.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/invoice_report/fency_report_account.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/invoice_report/fency_report_invoice.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/invoice_report/report_invoice_classic.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/invoice_report/report_invoice_modern.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/invoice_report/report_invoice_odoo_standard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/purchase_report/classic_purchase_report.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/purchase_report/classic_report_purchaseorder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/purchase_report/classic_report_purchasequotation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/purchase_report/fency_report_purchaseorder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/purchase_report/fency_report_purchasequotation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/purchase_report/modern_report_purchaseorder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/purchase_report/modern_report_purchasequotation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/purchase_report/odoo_standard_report_purchaseorder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/purchase_report/odoo_standard_report_purchasequotation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/res_company.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/res_company.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/sale_report/classic_report_saleorder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/sale_report/classic_sale_report.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/sale_report/fency_report_saleorder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/sale_report/modern_report_saleorder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/sale_report/odoo_standard_report_saleorder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/bi_reports/static/description/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/data/account_accountant_data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/data/account_accountant_demo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/ar.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/bg.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/bs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/ca.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/cs.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/da.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/de.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/el.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/es.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/es_PE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/et.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/eu.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/fa.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/fi.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/fr.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/he.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/hr.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/hu.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/hy.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/id.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/it.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/ja.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/kab.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/km.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/ko.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/lo.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/lt.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/lv.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/mn.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/my.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/nb.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/nl.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/pl.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/pt.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/pt_BR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/ro.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/ru.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/sk.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/sl.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/sq.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/sr.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/sv.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/th.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/tr.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/uk.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/vi.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/i18n/zh_CN.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/security/account_accountant_security.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/description/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/static/src/js/tour.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/finance/views/account_accountant_templates.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/data/payment_acquirer_data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/models/func.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/models/payment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/models/rsa_private_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/models/rsa_public_key.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/views/account_config_settings_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/views/payment_alipay_templates.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/payment_alibaba/views/payment_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/data/ir.cron.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/data/ir.model.access.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/data/res.country.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/doc/changelog.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/ir_actions_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/res_country.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/res_partner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/sms_account.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/sms_compose.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/sms_gateway.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/sms_message.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/sms_number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/models/sms_template.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/security/ir.model.access.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/description/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/src/js/sms_widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/static/src/xml/sms_widget.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/views/ir_actions_server_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/views/qweb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/views/res_partner_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/views/sms_account_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/views/sms_compose_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/views/sms_message_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/views/sms_number_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/views/sms_template_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sms_frame/views/sms_views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/translation_base_reload/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/translation_base_reload/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/translation_base_reload/i18n/zh_CN.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/translation_base_reload/module/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/translation_base_reload/module/wizard/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/translation_base_reload/module/wizard/base_language_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/translation_base_reload/module/wizard/base_language_install_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/README.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/__manifest__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/i18n/de.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/i18n/es.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/i18n/hr.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/i18n/pt_BR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/lib/css/drawer.3.2.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/lib/js/drawer.3.2.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/lib/js/iscroll-probe.5.2.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/src/js/web_responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/src/less/app_drawer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/src/less/form_view.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/src/less/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/src/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/src/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/src/xml/form_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/src/xml/navbar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/static/tests/js/web_responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/tests/test_ui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/views/assets.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/web_responsive/views/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dy_client/controllers/main.py" afterPath="$PROJECT_DIR$/app/dy_client/controllers/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dy_client/templates/home/home.html" afterPath="$PROJECT_DIR$/app/dy_client/templates/home/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dy_client/templates/home/login.html" afterPath="$PROJECT_DIR$/app/dy_client/templates/home/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dy_client/templates/person/index.html" afterPath="$PROJECT_DIR$/app/dy_client/templates/person/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/dy_client/templates/person/safety.html" afterPath="$PROJECT_DIR$/app/dy_client/templates/person/safety.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,86 +260,85 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/FBBFoods$start.coverage" NAME="start Coverage Results" MODIFIED="1526221496843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FBBFoods$start.coverage" NAME="start Coverage Results" MODIFIED="1526986484628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dy_client/templates/home/home.html">
+      <file leaf-file-name="sms_gateway.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sms_frame/models/sms_gateway.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
-              <folding>
-                <element signature="n#style#0;n#i#1;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#127813#127819#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dy_client/templates/home/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dy_init/static/img/favicon.ico">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fbb_logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dy_init/static/img/fbb_logo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bitbug_favicon.ico" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dy_init/static/img/bitbug_favicon.ico">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dy_init/static/img/logo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main_company.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dy_init/views/main_company.xml">
+      <file leaf-file-name="__manifest__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sms_frame/__manifest__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-705">
+            <state relative-caret-position="266">
+              <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__manifest__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/web_responsive/__manifest__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment_acquirer_data.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/payment_alibaba/data/payment_acquirer_data.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base_view.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dy_init/views/base_view.xml">
+      <file leaf-file-name="__manifest__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/payment_alibaba/__manifest__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31">
+            <state relative-caret-position="285">
+              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/web_responsive/views/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assets.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/web_responsive/views/assets.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-553">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templates.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/dy_init/views/templates.xml">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sms_frame/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1345">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -202,23 +427,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/client/addons/web/templates/test1.html" />
-        <option value="$PROJECT_DIR$/app/client/addons/web/__manifest__.py" />
-        <option value="$PROJECT_DIR$/config/odoo.conf" />
-        <option value="$PROJECT_DIR$/odoo-11.0/odoo/addons/web/static/src/css/test.css" />
-        <option value="$PROJECT_DIR$/odoo-11.0/odoo/addons/web/controllers/main.py" />
-        <option value="$PROJECT_DIR$/odoo-11.0/odoo/addons/web/templates/test1.html" />
-        <option value="$PROJECT_DIR$/odoo-11.0/odoo-bin" />
-        <option value="$PROJECT_DIR$/app/dy_client/templates/test1.html" />
-        <option value="$PROJECT_DIR$/app/dy_client/templates/frame.html" />
-        <option value="$PROJECT_DIR$/app/client/addons/web/controllers/main.py" />
-        <option value="$PROJECT_DIR$/app/dy_client/controllers/product_main.py" />
-        <option value="$PROJECT_DIR$/app/dy_client/templates/home/home1.html" />
-        <option value="$PROJECT_DIR$/app/dy_client/templates/home/home3.html" />
-        <option value="$PROJECT_DIR$/app/dy_client/templates/home/introduction.html" />
-        <option value="$PROJECT_DIR$/app/dy_client/templates/home/pay.html" />
-        <option value="$PROJECT_DIR$/app/dy_client/templates/home/register.html" />
-        <option value="$PROJECT_DIR$/app/dy_client/templates/home/search.html" />
         <option value="$PROJECT_DIR$/app/dy_client/templates/home/shopcart.html" />
         <option value="$PROJECT_DIR$/app/dy_client/templates/home/sort.html" />
         <option value="$PROJECT_DIR$/app/dy_client/templates/home/success.html" />
@@ -253,6 +461,23 @@
         <option value="$PROJECT_DIR$/app/dy_client/static/src/js/fbb_api.js" />
         <option value="$PROJECT_DIR$/app/dy_client/controllers/main.py" />
         <option value="$PROJECT_DIR$/app/dy_client/templates/person/index.html" />
+        <option value="$PROJECT_DIR$/app/base_translation_module_name_reload/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/translation_base_reload/__init__.py" />
+        <option value="$PROJECT_DIR$/app/translation_base_reload/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/web_responsive/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/bi_reports/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/finance/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/models/sms_account.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/models/ir_actions_server.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/models/res_country.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/models/res_partner.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/models/sms_compose.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/models/sms_gateway.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/models/sms_message.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/models/sms_number.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/models/sms_template.py" />
+        <option value="$PROJECT_DIR$/app/sms_frame/__manifest__.py" />
+        <option value="$PROJECT_DIR$/app/payment_alibaba/__manifest__.py" />
       </list>
     </option>
   </component>
@@ -368,35 +593,26 @@
               <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
               <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="dy_init" type="462c0819:PsiDirectoryNode" />
+              <item name="payment_alibaba" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
               <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="dy_init" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="payment_alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
               <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="dy_init" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="web_responsive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
               <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="dy_init" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FBBFoods" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FBBFoods" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="dy_init" type="462c0819:PsiDirectoryNode" />
+              <item name="web_responsive" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -425,11 +641,11 @@
       <recent name="$PROJECT_DIR$/app/dy_client" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/dy_init/static/img" />
       <recent name="$PROJECT_DIR$/app/dy_client/static/src/images" />
       <recent name="$PROJECT_DIR$/odoo-11.0/odoo/addons/web/templates" />
       <recent name="$PROJECT_DIR$/app/client/addons/web" />
-      <recent name="$PROJECT_DIR$/app/client/addons/web/statics/src/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -482,12 +698,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -555,6 +772,11 @@
           <line>91</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/sms_frame/models/sms_compose.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -563,173 +785,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/foot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5780">
-          <caret line="307" column="76" lean-forward="false" selection-start-line="307" selection-start-column="76" selection-end-line="307" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/idcard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="973">
-          <caret line="54" column="68" lean-forward="false" selection-start-line="54" selection-start-column="68" selection-end-line="54" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/information.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1951">
-          <caret line="104" column="151" lean-forward="false" selection-start-line="104" selection-start-column="151" selection-end-line="104" selection-end-column="151" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/logistics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1790">
-          <caret line="97" column="68" lean-forward="false" selection-start-line="97" selection-start-column="68" selection-end-line="97" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3291">
-          <caret line="176" column="100" lean-forward="false" selection-start-line="176" selection-start-column="100" selection-end-line="176" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/order.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24476">
-          <caret line="1291" column="104" lean-forward="false" selection-start-line="1291" selection-start-column="104" selection-end-line="1291" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/orderinfo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4583">
-          <caret line="244" column="92" lean-forward="false" selection-start-line="244" selection-start-column="92" selection-end-line="244" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/password.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="973">
-          <caret line="54" column="68" lean-forward="false" selection-start-line="54" selection-start-column="68" selection-end-line="54" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/question.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="973">
-          <caret line="54" column="68" lean-forward="false" selection-start-line="54" selection-start-column="68" selection-end-line="54" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/record.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1866">
-          <caret line="101" column="68" lean-forward="false" selection-start-line="101" selection-start-column="68" selection-end-line="101" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/refund.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3918">
-          <caret line="209" column="68" lean-forward="false" selection-start-line="209" selection-start-column="68" selection-end-line="209" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/setpay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="973">
-          <caret line="54" column="68" lean-forward="false" selection-start-line="54" selection-start-column="68" selection-end-line="54" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/frame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="145" column="15" lean-forward="false" selection-start-line="145" selection-start-column="15" selection-end-line="145" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/options.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/screen_map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="813" column="14" lean-forward="true" selection-start-line="813" selection-start-column="14" selection-end-line="813" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/templates/person/safety.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/static/src/images/mansmall.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/standardSchemas/xhtml1-transitional.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="134" column="2" lean-forward="false" selection-start-line="134" selection-start-column="2" selection-end-line="134" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/static/src/images/logos.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_init/static/img/mind_logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_init/static/img/min_logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/static/src/images/mind_logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/static/src/images/logobig2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/dy_client/static/src/images/loading.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/dy_client/static/src/images/logo1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -794,7 +854,7 @@
     <entry file="file://$PROJECT_DIR$/app/dy_client/templates/home/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <caret line="73" column="29" lean-forward="false" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#i#1;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#127813#127819#0" expanded="true" />
@@ -840,7 +900,7 @@
     <entry file="file://$PROJECT_DIR$/app/dy_client/templates/home/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
-          <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -881,10 +941,214 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/dy_system/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/translation_base_reload/i18n/zh_CN.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/translation_base_reload/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/translation_base_reload/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/web_responsive/i18n/de.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/dy_init/views/templates.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1345">
+        <state relative-caret-position="263">
+          <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/finance/data/account_accountant_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/finance/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bi_reports/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/doc/changelog.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/models/ir_actions_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/models/res_country.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/models/res_partner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/models/sms_account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/models/sms_compose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/models/sms_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2058">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#53#0" expanded="true" />
+            <marker date="1526232774842" expanded="true" signature="2913:3016" ph="Select targe... the" />
+            <marker date="1526232774842" expanded="true" signature="3017:3078" ph="select a tar... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/models/sms_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/models/sms_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-762">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/models/sms_gateway.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sms_frame/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/web_responsive/views/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/web_responsive/views/assets.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-553">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/web_responsive/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/payment_alibaba/data/payment_acquirer_data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/payment_alibaba/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding />
         </state>
       </provider>
